@@ -1,2 +1,2 @@
 # hello-world
-First project
+Hello!  I develop in C#, SQL and MEL.
